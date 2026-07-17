@@ -1,0 +1,6 @@
+{
+  "name": "Hello Multimedia",
+  "description": "A premium, luxury dark IPTV Live Streaming player with advanced buffering and hardware decoding optimizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
